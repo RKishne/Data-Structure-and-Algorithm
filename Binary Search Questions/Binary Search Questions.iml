@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Aggresive Cows" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Allocate Minimum Number Of Pages" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Capacity To Ship Packages Within B Days" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Count 1 in sorted binary array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Find First and Last Position of Element in Sorted Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Find Minimum in Rotated Sorted Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Minimum Limit of Balls in a Bag" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Minimum time to make Cakes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Peak Index in a Mountain Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Peak element" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rotated Sorted Array Search" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Row with Maximum 1's" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Search A 2D Matrix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Square root of a number" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

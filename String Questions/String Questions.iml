@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/All substrings of a string" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Autori" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Camel Case" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Compressed Strings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Count words in a given string" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Distinct Palindromic SubStrings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Good Strings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Hey!" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Inverse Camel Case" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lower or Upper" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Maximum Frequency Character" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Palindrome String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pangrams" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ptice" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Reverse String Word Wise" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Shuffle String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/String to Integer array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Time Conversion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Toggle Characters" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Word from Keyboard" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Array Pairs Divisible By K" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Automorphic Number or Not" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Count Subarrays With Equal 0s, 1s and 2s" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Count Subarrays with Equal 1's and 0's" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Design HashSet" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Distinct Window" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Employees and Manager" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Equilibrium Index" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Find All Duplicates in an Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/First Element to Occur K Times" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LRU Cache" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Largest Subarray with 0 Sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Longest subarray with equal frequency" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Minimum Window Substring" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Missing Numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problem With Given Difference" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rabbits in Forest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Snapshot Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Strong numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Subarray sum divisible by k" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Subarray sum equals K" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Substring With K Unique characters" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

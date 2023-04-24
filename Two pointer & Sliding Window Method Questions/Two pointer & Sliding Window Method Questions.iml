@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/3 Sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4 Sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Boats to Save People" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Longest Substring with At Least K Repeating Characters" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Maximum Consecutive Ones" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Maximum Consecutive Ones 2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Minimum Length of String After Deleting Similar Ends" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Minimum Window Substring" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Number of Valid Triangles" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sliding window Maximum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Subarray Product Less Than K" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Two Sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Two sum Pairs" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

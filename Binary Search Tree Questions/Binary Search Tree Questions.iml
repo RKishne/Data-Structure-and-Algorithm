@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Basic operations in BST" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Binary Search Tree Iterator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Construct BST From Postorder Traversal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Construct BST From Preorder Traversal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Construct Bst From Levelorder Traversal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Convert BST to Greater Tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Delete a node from BST" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Insert a node in a BST" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Iterative DFS" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LCA of Binary Search Tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Recover BST" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sorted Array to Binary Tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sum of range in BST" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Trim BST" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Two sum in BST" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Validate BST" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

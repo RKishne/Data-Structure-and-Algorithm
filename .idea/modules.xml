@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2D-Array Question(MATRIX)/2D-Array Question(MATRIX).iml" filepath="$PROJECT_DIR$/2D-Array Question(MATRIX)/2D-Array Question(MATRIX).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList Questions/ArrayList Questions.iml" filepath="$PROJECT_DIR$/ArrayList Questions/ArrayList Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays Question/Arrays Question.iml" filepath="$PROJECT_DIR$/Arrays Question/Arrays Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search Questions/Binary Search Questions.iml" filepath="$PROJECT_DIR$/Binary Search Questions/Binary Search Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search Tree Questions/Binary Search Tree Questions.iml" filepath="$PROJECT_DIR$/Binary Search Tree Questions/Binary Search Tree Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary tree Questions/Binary tree Questions.iml" filepath="$PROJECT_DIR$/Binary tree Questions/Binary tree Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA Questions.iml" filepath="$PROJECT_DIR$/.idea/DSA Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph.iml" filepath="$PROJECT_DIR$/Graph/Graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hashing Questions/Hashing Questions.iml" filepath="$PROJECT_DIR$/Hashing Questions/Hashing Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kadane's Algorithm Questions/Kadane's Algorithm Questions.iml" filepath="$PROJECT_DIR$/Kadane's Algorithm Questions/Kadane's Algorithm Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked Lists Question/Linked Lists Question.iml" filepath="$PROJECT_DIR$/Linked Lists Question/Linked Lists Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prefix sum Algorithm Questions/Prefix sum Algorithm Questions.iml" filepath="$PROJECT_DIR$/Prefix sum Algorithm Questions/Prefix sum Algorithm Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue Questions/Queue Questions.iml" filepath="$PROJECT_DIR$/Queue Questions/Queue Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion Questions/Recursion Questions.iml" filepath="$PROJECT_DIR$/Recursion Questions/Recursion Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion Questions/Recursion on Array Questions/Recursion on Array Questions.iml" filepath="$PROJECT_DIR$/Recursion Questions/Recursion on Array Questions/Recursion on Array Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion Questions/Recursion on ArrayList Questions/Recursion on ArrayList Questions.iml" filepath="$PROJECT_DIR$/Recursion Questions/Recursion on ArrayList Questions/Recursion on ArrayList Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion Questions/Recursion on String and 2D Arrays Question/Recursion on String and 2D Arrays Question.iml" filepath="$PROJECT_DIR$/Recursion Questions/Recursion on String and 2D Arrays Question/Recursion on String and 2D Arrays Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sortings/Sortings.iml" filepath="$PROJECT_DIR$/Sortings/Sortings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackQuestions/StackQuestions.iml" filepath="$PROJECT_DIR$/StackQuestions/StackQuestions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String Builder Questions/String Builder Questions.iml" filepath="$PROJECT_DIR$/String Builder Questions/String Builder Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String Questions/String Questions.iml" filepath="$PROJECT_DIR$/String Questions/String Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Two pointer &amp; Sliding Window Method Questions/Two pointer &amp; Sliding Window Method Questions.iml" filepath="$PROJECT_DIR$/Two pointer &amp; Sliding Window Method Questions/Two pointer &amp; Sliding Window Method Questions.iml" />
+    </modules>
+  </component>
+</project>

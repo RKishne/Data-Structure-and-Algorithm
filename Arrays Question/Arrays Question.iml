@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/2nd Largest from array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array Adding" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array Operations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array Problem 1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array Problem 2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array Problem 4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array Problem 5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array Problem 6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array Subtracting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Buildings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Divisible Sum Pairs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Find Geometric Triplets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Largest Number At Least Twice of Others" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Maximum Sum Subarray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Maximum difference between two elements in an Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Reverse an array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rotate array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Subarray sum divisible by k" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sum of Array Except Self" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Design Stack Using Linked List" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Implement Queue using stack - Dequeue O(1)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Implement Queue using stack - enQueue O(1)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Implement Stack using Queue-pop O(1)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Implement Stack using Queue-push O(1)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Implement two Stacks in an Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Queue using Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Queue using Linked List" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rotting Oranges" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sliding window Maximum" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
